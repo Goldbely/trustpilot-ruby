@@ -1,6 +1,11 @@
 Changelog
 =========
 
+## Unreleased
+- Added CircleCI config file.
+- Added dependabot.yml.
+- Fixed Gemfile.lock after releasing v0.1.1.
+
 ## 0.1.1 (Feb 22, 2022)
 [Full Changelog](https://github.com/goldbely/trustpilot-ruby/compare/v0.1.0...v0.1.1)
 
