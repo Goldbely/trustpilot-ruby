@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    trustpilot (0.1.0)
+    trustpilot (0.1.1)
 
 GEM
   remote: https://rubygems.org/
@@ -50,4 +50,4 @@ DEPENDENCIES
   webmock (~> 3.14)
 
 BUNDLED WITH
-   2.3.4
+   2.3.19
