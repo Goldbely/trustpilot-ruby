@@ -12,8 +12,7 @@ GEM
       rexml
     diff-lcs (1.5.0)
     hashdiff (1.0.1)
-    mock_redis (0.36.0)
-      ruby2_keywords
+    mock_redis (0.37.0)
     public_suffix (5.0.1)
     rake (13.0.6)
     rexml (3.2.5)
@@ -32,7 +31,6 @@ GEM
     rspec-support (3.12.0)
     rspec_junit_formatter (0.6.0)
       rspec-core (>= 2, < 4, != 2.12.0)
-    ruby2_keywords (0.0.5)
     vcr (6.2.0)
     webmock (3.18.1)
       addressable (>= 2.8.0)
