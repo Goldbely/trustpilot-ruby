@@ -6,7 +6,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.1)
+    addressable (2.8.5)
       public_suffix (>= 2.0.2, < 6.0)
     crack (0.4.5)
       rexml
@@ -14,9 +14,9 @@ GEM
     hashdiff (1.0.1)
     mock_redis (0.36.0)
       ruby2_keywords
-    public_suffix (5.0.1)
+    public_suffix (5.0.3)
     rake (13.0.6)
-    rexml (3.2.5)
+    rexml (3.2.6)
     rspec (3.12.0)
       rspec-core (~> 3.12.0)
       rspec-expectations (~> 3.12.0)
@@ -34,7 +34,7 @@ GEM
       rspec-core (>= 2, < 4, != 2.12.0)
     ruby2_keywords (0.0.5)
     vcr (6.2.0)
-    webmock (3.18.1)
+    webmock (3.19.0)
       addressable (>= 2.8.0)
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
